@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erman Bauyrzhan</h1>
-<h3 align="center">A passionate Software and Mobile developer from Almaty</h3>
+<h1 align="center">Hello, I'm Erman Bauyrzhan</h1>
+<h3 align="center">A passionate Software and Mobile engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
